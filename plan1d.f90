@@ -5,9 +5,9 @@
 !
 ! NOTES:
 !
-! HIST:   Version Date     Author   Comment
-!         1.0     99/09/17 rgvb     Initial version
-!         modified by christina
+! HIST:   Version Date     Author       Comment
+!         1.0     09/09/17 rgvb          Initial version
+!         2.0     02/03/20 christina     Modified
 !*******************************************************************
 
 !**********************************************************************
